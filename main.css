@@ -2,8 +2,9 @@ body{
     background: #003F00;
 }
 #menu{
-    background: #003D74;
+    background: #6C0A25;
 }
 #but{
-    background-color: #6C0A25;
+    background-color: #003D74;
+    color: #fff;
 }
