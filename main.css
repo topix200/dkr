@@ -9,19 +9,19 @@
 }
 
 body {
-    background: #003F00;
+    background: #141417;
     margin: 20px;
 }
 
 #menu {
-    background: #003D74;
+    background: #1a2431;
 }
 
 .but {
     font-family: Fortnite;
     font-size: 40px;
-    border-color: #910e33;
-    background-color: #6C0A25;
+    border-color: #5e1821;
+    background-color: #ab2c3c;
     color: #fff;
     margin-bottom: 20px;
 }
