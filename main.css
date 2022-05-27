@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Burbank;
+    src: url(./BurbankBigCondensed-Black.otf);
+  }
 body{
     background: #003F00;
 }
@@ -5,6 +9,7 @@ body{
     background: #003D74;
 }
 .but{
+    font-family: Burbank;
     font-size: 40px;
     border-color: #910e33;
     background-color: #6C0A25;
