@@ -19,7 +19,7 @@ body {
     /* justify-content: center; */
 }
 
-.but {
+.but , input {
     font-family: Fortnite;
     font-size: 40px;
     border-color: #5e1821;
@@ -37,5 +37,7 @@ h1{
     color: #fff;
     font-family: Fortnite;
     font-size: 100px;
-
+}
+input{
+    font-size: medium;
 }
