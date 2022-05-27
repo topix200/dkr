@@ -20,14 +20,14 @@ body {
 }
 
 .but , input {
+    color: #fff;
     font-family: Fortnite;
     font-size: 40px;
     border-color: #5e1821;
     background-color: #ab2c3c;
-    color: #fff;
     margin: 10px;
 }
-.but:hover{
+.but:hover, input:hover{
     background-color: #5e1821;
     border-color: #ab2c3c;
 }
@@ -40,4 +40,8 @@ h1{
 }
 input{
     font-size: medium;
+}
+option{
+    color: #fff;
+    font-family: Fortnite;
 }
