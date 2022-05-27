@@ -2,6 +2,7 @@
     font-family: Burbank;
     src: url(./BurbankBigCondensed-Black.otf);
   }
+  @import url('http://fonts.cdnfonts.com/css/minecraft-4');
 body{
     background: #003F00;
     margin: 20px;
@@ -10,7 +11,7 @@ body{
     background: #003D74;
 }
 .but{
-    font-family: Burbank;
+    font-family: 'Minecraft', sans-serif;
     font-size: 40px;
     border-color: #910e33;
     background-color: #6C0A25;
