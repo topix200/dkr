@@ -29,6 +29,7 @@ body {
     background-color: #ab2c3c;
     margin: 1vh;
     border-radius: 0.5vw;
+    padding: 0.5vh;
 }
 .but:hover, input:hover{
     background-color: #5e1821;
