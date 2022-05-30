@@ -16,6 +16,7 @@ body {
 #menu {
     background: #1a2431;
     text-align: center;
+    border-radius: 5vw;
     /* justify-content: center; */
 }
 
