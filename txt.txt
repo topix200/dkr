@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-GB/troubleshoot/windows-client/user-profiles-and-logon/renaming-user-account-not-change-profile-path
