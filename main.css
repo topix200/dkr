@@ -1,0 +1,57 @@
+/*PP*/
+@font-face {
+    font-family: Fortnite;
+    src: url(./BurbankBigCondensed-Black.otf);
+}
+
+@font-face {
+    font-family: Minecraft;
+    src: url(https://fonts.cdnfonts.com/s/36662/MinecraftTen-VGORe.woff);
+}
+
+body {
+    background: #000;
+    margin: 2vh;
+}
+
+#menu {
+    background: #1a2431;
+    text-align: center;
+    border-radius: 1vw;
+    /* justify-content: center; */
+}
+
+.but , input {
+    color: #fff;
+    font-family: Fortnite;
+    font-size: 5vh;
+    border-color: #5e1821;
+    background-color: #ab2c3c;
+    margin: 1vh;
+    border-radius: 0.5vw;
+    padding: 0.5vh;
+}
+.but:hover, input:hover{
+    background-color: #5e1821;
+    border-color: #ab2c3c;
+}
+h1{
+    margin: 0;
+    background-color: #141417;
+    color: #fff;
+    font-family: Fortnite;
+    font-size: 10vh;
+    text-align: center;
+    border-radius: 1vw;
+    margin-bottom: 1vh;
+}
+input{
+    font-size: 2vh;
+}
+option{
+    color: #fff;
+    font-family: Fortnite;
+}
+a{
+    text-decoration: none;
+}
